@@ -3,8 +3,8 @@
 import collections
 import itertools
 
-data = pd.read_csv("data/sample_data.csv")
-data.columns = map(str.lower, data.columns)
+sample_data = pd.read_csv("data/sample_data.csv")
+#sample_data.columns = map(str.lower, sample_data.columns)
 
 counter = collections.Counter(itertools.chain.from_iterable(v.split(',') for v in sample_data.techs))
 
