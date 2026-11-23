@@ -1,0 +1,9 @@
+customer,plan,monthly_spend,support_tickets,tenure_months,churned
+A,basic,20,0,24,0
+B,basic,25,1,18,0
+C,basic,,0,36,0
+D,plus,22,1,12,0
+E,plus,80,8,2,1
+F,premium,90,7,1,1
+G,premium,70,9,3,1
+H,premium,85,6,2,1

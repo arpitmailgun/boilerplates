@@ -1,0 +1,10 @@
+name,department,role,salary,years
+Ada,Engineering,Engineer,120000,5
+Lin,Engineering,Engineer,,3
+Grace,Engineering,Manager,150000,8
+Edsger,Research,Scientist,130000,
+Katherine,Research,Scientist,125000,6
+Alan,Research,Analyst,110000,4
+Donald,Engineering,Engineer,118000,7
+Barbara,Product,Manager,140000,9
+Tim,Product,,90000,2

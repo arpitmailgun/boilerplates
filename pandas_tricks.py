@@ -3,6 +3,9 @@
 import collections
 import itertools
 
+import numpy as np
+import pandas as pd
+
 sample_data = pd.read_csv("data/sample_data.csv")
 #sample_data.columns = map(str.lower, sample_data.columns)
 
